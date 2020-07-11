@@ -24,7 +24,7 @@ README.md:
 	echo "3. The number of lines of code contained in guessinggame.sh." >> README.md
 
 	echo "\n\nThis file was generated with Markdown style from makefile." >> README.md
-	echo "\n@VladimirNikiforov" >> README.md
+	echo "\n@Kaustubh Tripathi" >> README.md
 
 clean:
 	rm README.md
